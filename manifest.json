@@ -1,0 +1,23 @@
+{
+  "name": "角度読み上げ",
+  "short_name": "角度計",
+  "description": "iPhoneで角度を測定し、イヤホンへ音声で知らせるアプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42a5f5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
